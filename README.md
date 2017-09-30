@@ -1,4 +1,5 @@
 **prerequisites: python2.7, BeautifulSoup, urllib2
+<img src="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84YTY4MzA3YThlODQwMzQ0NGYwNzBkMzk1ZmZmYWIwNC5qcGc=.jpg" alt="wolfiecindysmile" style="width:304px;height:228px;">
 
 run in terminal:
 
