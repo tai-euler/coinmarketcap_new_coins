@@ -5,4 +5,5 @@
 
 run in terminal:
 
-1. python coinmarketcap_new.py
+1. add you own coins in the array searched_coins = [].
+2. run in terminal: "python coinmarketcap_new.py"
